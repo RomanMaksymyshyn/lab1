@@ -1,0 +1,8 @@
+"# task1" 
+erghehetthethe
+
+<<<<<<< HEAD
+test 2 commit 3
+=======
+Hello Andriy Rodionov
+>>>>>>> branch

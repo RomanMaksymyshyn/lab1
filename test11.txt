@@ -1,0 +1,10 @@
+"# task1" 
+qwerty
+
+<<<<<<< HEAD
+commit 3 is here
+=======
+
+
+Hello mrs. Robinson - Simon & Garfunkel
+>>>>>>> branch
